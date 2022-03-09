@@ -17,7 +17,7 @@ Following are the files:
 
 - Clone the entire repository - into a local folder <br>  
 - create a .env file in the same directory with following keys:
-    - PINATA_API_KEY - [you need to get the API key from https://app.pinata.cloud/]
+    - `PINATA_API_KEY` - [you need to get the API key from https://app.pinata.cloud/]
     - PINATA_SECRET_API_KEY - [you need to get the SECRET_API key from https://app.pinata.cloud/]
     - WEB3_PROVIDER_URI - [copy Ganache RPC SERVER ip and port]
     - SMART_CONTRACT_ADDRESS - [address of the smartcontract cars_smart_contract.sol after deployment] 
