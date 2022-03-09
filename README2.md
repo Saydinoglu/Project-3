@@ -6,7 +6,7 @@
 
 ## Methodology
 
-## Analysis/Results
+## Analysis and Results
 
 ## Conclusions
 - Conclusion 1
