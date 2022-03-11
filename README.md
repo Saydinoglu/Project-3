@@ -27,3 +27,5 @@ Following are the files:
 - copy the contract address and paste it in .env file for "SMART_CONTRACT_ADDRESS" key.
 - Compile and deploy TRUXToken.sol
 - Open cars.ipynb in jupyter notebook and execute the cells. User interaction is in the last cell. 
+
+## Conclusions
